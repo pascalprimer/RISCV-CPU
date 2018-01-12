@@ -1,0 +1,5 @@
+sw 2 0 0
+andi 1 4 1
+lw 2 0 4
+add 6 3 4
+xori 1 2 3
